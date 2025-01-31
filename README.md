@@ -21,14 +21,18 @@
 
 ## Пример использования
 - **Искомое изображение**
+  
 ![image](https://github.com/user-attachments/assets/93352dd3-d9b4-4e15-a7c2-48da7b3919ab)
 
 - **GrayScaleFilter**
+  
 ![image](https://github.com/user-attachments/assets/04c47512-4d8b-4ec9-bffd-917e721ef08c)
 
 - **MedianFilter**
+  
 ![image](https://github.com/user-attachments/assets/d8786cc8-91c8-498c-97ca-6dee622f9b63)
 
 - **SobelFilter**
+  
 ![image](https://github.com/user-attachments/assets/04b82d6f-6b86-481b-8c5a-2973d1509a3c)
 
